@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/landingpage2/static/css/main.0f8b0ecc.chunk.css",
+    "main.js": "/landingpage2/static/js/main.27bdbd47.chunk.js",
+    "main.js.map": "/landingpage2/static/js/main.27bdbd47.chunk.js.map",
+    "runtime-main.js": "/landingpage2/static/js/runtime-main.be0a03d0.js",
+    "runtime-main.js.map": "/landingpage2/static/js/runtime-main.be0a03d0.js.map",
+    "static/css/2.58c4053f.chunk.css": "/landingpage2/static/css/2.58c4053f.chunk.css",
+    "static/js/2.b9434947.chunk.js": "/landingpage2/static/js/2.b9434947.chunk.js",
+    "static/js/2.b9434947.chunk.js.map": "/landingpage2/static/js/2.b9434947.chunk.js.map",
+    "index.html": "/landingpage2/index.html",
+    "precache-manifest.c32d4b0065cec18c88be3d661e86f6d4.js": "/landingpage2/precache-manifest.c32d4b0065cec18c88be3d661e86f6d4.js",
+    "service-worker.js": "/landingpage2/service-worker.js",
+    "static/css/2.58c4053f.chunk.css.map": "/landingpage2/static/css/2.58c4053f.chunk.css.map",
+    "static/css/main.0f8b0ecc.chunk.css.map": "/landingpage2/static/css/main.0f8b0ecc.chunk.css.map",
+    "static/js/2.b9434947.chunk.js.LICENSE.txt": "/landingpage2/static/js/2.b9434947.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/landingpage2/static/media/bg-header-desktop.df6601b0.png",
+    "static/media/icon-blacklist.svg": "/landingpage2/static/media/icon-blacklist.78478963.svg",
+    "static/media/icon-facebook.svg": "/landingpage2/static/media/icon-facebook.99ef83bc.svg",
+    "static/media/icon-instagram.svg": "/landingpage2/static/media/icon-instagram.0f2e9e25.svg",
+    "static/media/icon-preview.svg": "/landingpage2/static/media/icon-preview.ee6850bc.svg",
+    "static/media/icon-text.svg": "/landingpage2/static/media/icon-text.d9185a42.svg",
+    "static/media/icon-twitter.svg": "/landingpage2/static/media/icon-twitter.799c9975.svg",
+    "static/media/image-computer.png": "/landingpage2/static/media/image-computer.a030348e.png",
+    "static/media/image-devices.png": "/landingpage2/static/media/image-devices.6208ead7.png",
+    "static/media/logo.svg": "/landingpage2/static/media/logo.28caa024.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be0a03d0.js",
+    "static/css/2.58c4053f.chunk.css",
+    "static/js/2.b9434947.chunk.js",
+    "static/css/main.0f8b0ecc.chunk.css",
+    "static/js/main.27bdbd47.chunk.js"
+  ]
+}
