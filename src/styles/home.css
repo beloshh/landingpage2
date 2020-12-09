@@ -1,0 +1,160 @@
+body {
+  font-family: "Bai Jamjuree", sans-serif;
+}
+.center {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+.one {
+  background-image: url("../images/bg-header-desktop.png");
+  height: 300px;
+}
+.term {
+  padding-top: 100px;
+}
+.kill {
+  text-align: center;
+  display: block;
+}
+#kill {
+  font-weight: 600;
+}
+.control {
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+}
+.contro {
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+}
+.col {
+  margin: 10px;
+}
+#can {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+#kool {
+  margin-top: 50px;
+}
+#bug {
+  padding: 50px;
+}
+#lol {
+  min-width: fit-content;
+  height: auto;
+}
+#ll {
+  height: auto;
+  padding-bottom: 100px;
+}
+.ter {
+  min-width: fit-content;
+  height: auto;
+  display: flex;
+  justify-content: center;
+}
+.cen {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+#jk {
+  display: flex;
+  justify-content: center;
+}
+.co {
+  margin: 10px;
+}
+.c {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+  height: 100px;
+}
+footer {
+  background-color: whitesmoke;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+#button {
+  background-color: hsl(171, 66%, 44%);
+  color: white;
+}
+#buttons {
+  background-color: hsl(233, 100%, 69%);
+  color: white;
+}
+#lop {
+  margin-bottom: 200px;
+}
+#monk {
+  margin-top: 100px;
+}
+#lil {
+  margin-top: 100px;
+}
+#long {
+  margin-top: 50px;
+}
+.ki {
+  text-align: center;
+  padding-bottom: 20px;
+  padding-top: 5px;
+}
+#kk {
+  padding-bottom: 80px;
+}
+@media screen and (max-width: 575px) {
+  body {
+    background-color: #404040;
+    color: white;
+  }
+  .subtitle {
+    color: white;
+    text-align: center;
+  }
+  .ill {
+    text-align: center;
+  }
+  footer {
+    color: black;
+  }
+  kill {
+    display: none;
+  }
+}
+@media screen and (max-width: 769px) {
+  body {
+    background-color: #404040;
+    color: white;
+  }
+  #you {
+    width: fit-content;
+  }
+  .subtitle {
+    text-align: center;
+    color: white;
+  }
+  .ill {
+    text-align: center;
+  }
+  footer {
+    color: black;
+  }
+}
+@media screen and (min-width: 770px) {
+  #you {
+    width: 50%;
+  }
+}
